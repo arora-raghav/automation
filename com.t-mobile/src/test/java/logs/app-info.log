@@ -1,0 +1,27 @@
+[DEBUG] 2018-04-03 00:51:36.946 [main] TestCore - Opening Browser : chrome
+[DEBUG] 2018-04-03 00:51:38.123 [main] TestCore - Maximizing Browser
+[DEBUG] 2018-04-03 00:51:38.131 [main] TestCore - Applying Implicit Wait..
+[DEBUG] 2018-04-03 00:51:57.272 [main] TestCore - Closing Browser session
+[DEBUG] 2018-04-03 00:59:05.533 [main] TestCore - Opening Browser : chrome
+[DEBUG] 2018-04-03 00:59:06.721 [main] TestCore - Maximizing Browser
+[DEBUG] 2018-04-03 00:59:06.730 [main] TestCore - Applying Implicit Wait..
+[DEBUG] 2018-04-03 01:00:18.914 [main] TestCore - Opening Browser : chrome
+[DEBUG] 2018-04-03 01:00:20.120 [main] TestCore - Maximizing Browser
+[DEBUG] 2018-04-03 01:00:20.140 [main] TestCore - Applying Implicit Wait..
+[DEBUG] 2018-04-03 01:03:07.028 [main] TestCore - Opening Browser : chrome
+[DEBUG] 2018-04-03 01:03:08.216 [main] TestCore - Maximizing Browser
+[DEBUG] 2018-04-03 01:03:08.220 [main] TestCore - Applying Implicit Wait..
+[DEBUG] 2018-04-03 01:04:03.216 [main] TestCore - Opening Browser : chrome
+[DEBUG] 2018-04-03 01:04:04.615 [main] TestCore - Maximizing Browser
+[DEBUG] 2018-04-03 01:04:04.631 [main] TestCore - Applying Implicit Wait..
+[DEBUG] 2018-04-03 01:08:00.066 [main] TestCore - Opening Browser : chrome
+[DEBUG] 2018-04-03 01:08:01.246 [main] TestCore - Maximizing Browser
+[DEBUG] 2018-04-03 01:08:01.257 [main] TestCore - Applying Implicit Wait..
+[DEBUG] 2018-04-03 01:16:08.155 [main] TestCore - Opening Browser : chrome
+[DEBUG] 2018-04-03 01:16:09.418 [main] TestCore - Maximizing Browser
+[DEBUG] 2018-04-03 01:16:09.436 [main] TestCore - Applying Implicit Wait..
+[DEBUG] 2018-04-03 01:17:20.238 [main] TestCore - Opening Browser : chrome
+[DEBUG] 2018-04-03 01:17:21.528 [main] TestCore - Maximizing Browser
+[DEBUG] 2018-04-03 01:17:21.542 [main] TestCore - Applying Implicit Wait..
+[INFO] 2018-04-03 01:17:29.579 [main] ProductVerification - Home Page Opened
+[DEBUG] 2018-04-03 01:17:38.058 [main] ProductVerification - Closing Browser session
