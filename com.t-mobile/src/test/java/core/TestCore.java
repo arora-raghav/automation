@@ -15,6 +15,10 @@ public class TestCore {
 
 	public static WebDriver driver;
 	public static Logger logger;
+	/**
+	 * 
+	 * 
+	 */
 	@BeforeSuite
 	public void init()
 	{
