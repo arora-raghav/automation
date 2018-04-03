@@ -1,0 +1,18 @@
+node {
+   stage('Git checkout') { // for display purposes
+      git 'https://github.com/arora-raghav/automation.git'
+   }
+   stage('Smoke') {
+        try {
+            sh "mvn test"
+        } catch (err) {
+            
+        } finally {
+            publishHTML (target: [
+            reportDir: 'target/site/serenity',
+            reportFiles: 'index.html',
+            reportName: "UI tests report"
+            ])
+        }
+   }
+}
