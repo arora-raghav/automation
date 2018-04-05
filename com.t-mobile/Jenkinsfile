@@ -4,7 +4,7 @@ node {
    }
    stage('Testing') {
         try {
-            sh "mvn -f ./com.t-mobile/pom.xml clean test"
+            bat "mvn -f ./com.t-mobile/pom.xml clean test"
         } catch (err) {
             
         } finally {
