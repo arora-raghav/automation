@@ -2,9 +2,9 @@ node {
    stage('Git checkout') { // for display purposes
       git 'https://github.com/arora-raghav/automation.git'
    }
-   stage('Smoke') {
+   stage('Testing') {
         try {
-            sh "mvn test"
+            sh "mvn -f ./com.t-mobile/pom.xml clean test"
         } catch (err) {
             
         } finally {
